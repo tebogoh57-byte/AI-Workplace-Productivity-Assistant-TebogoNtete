@@ -61,8 +61,14 @@ This tool uses generative AI to assist, not replace, human judgment. Users must:
 Works on mobile and desktop. Tested on Chrome mobile.
 
 ### 📸 Screenshots
-[Add your 3 screenshots here - Email Generator, Summarizer, Task Planner]
 
+| Feature | Screenshot |
+| --- | --- |
+| **Dashboard - Home Page** | ![Dashboard](dashboard.png) |
+| **Email Generator (3 Tones)** | ![Email Generator](email-generator.png) |
+| **Task Planner & AI Assistant** | ![Task Planner](task-planner.png) |
+
+> Responsive design tested on mobile and desktop | Chrome mobile verified
 ### 📝 How to Use
 1. Visit https://ai-taskflow-buddy.lovable.app
 2. Click "Start with an email" or "Ask the assistant"
